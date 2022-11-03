@@ -1,0 +1,6 @@
+cmake
+face-recognition
+opencv-python
+pandas
+Pillow
+matplotlib
